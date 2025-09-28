@@ -2,16 +2,16 @@
   "storeInfo": {
     "name": "MUNAREWEL STORE",
     "tagline": "JUAL ITEM ROBLOX TRUSTED",
-    "whatsappNumber": "6285338939606",
+    "whatsappNumber": "62895359598005",
     "minPurchase": 1
   },
   "voucherInfo": {
-    "title": "📋 Informasi Produk",
+    "title": "📋 Sedikit Info",
     "details": [
-      "Voucher berlaku 7 hari setelah pembelian",
-      "Garansi 24 jam setelah pembelian",
-      "Produk dikirim ke alamat pembeli",
-      "Harga sudah termasuk pajak"
+      "Menjual Semua Item Roblox",
+      "Kemahalan?, Negoin Aja Di DM",
+      "Item Yang Dibutuhin Gak Ada di list? DM",
+      "100% Aman , Cobain Aja "
     ]
   },
   "products": [
@@ -22,7 +22,7 @@
       "price": 25000,
       "originalPrice": 30000,
       "image": "/placeholder.svg?height=200&width=300",
-      "description": "Pet terbaru dari Jungle Egg yang sangat OP"
+      "description": "Info base dan lain lain tanyakan di dm aja"
     },
     {
       "id": "2",
@@ -68,11 +68,11 @@
     }
   ],
   "formLabels": {
-    "name": "👤 Nama Pemesan:",
-    "email": "📧 Email:",
+    "name": "👤 Username:",
+    "email": "📧 Tiktokmu:",
     "phone": "📱 No. WhatsApp:",
-    "namePlaceholder": "Masukkan nama lengkap",
-    "emailPlaceholder": "contoh@email.com",
+    "namePlaceholder": "Username Roblox kamu ",
+    "emailPlaceholder": "Nama Tiktokmu",
     "phonePlaceholder": "08123456789"
   },
   "messages": {
