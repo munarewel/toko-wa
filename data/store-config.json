@@ -17,8 +17,8 @@
   "products": [
     {
       "id": "1",
-      "name": "Tiger - Grow A Garden",
-      "type": "voucher",
+      "name": "Tiger",
+      "type": "Grow A Garden",
       "price": 25000,
       "originalPrice": 30000,
       "image": "/placeholder.svg?height=200&width=300",
